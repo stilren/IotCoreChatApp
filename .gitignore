@@ -234,7 +234,7 @@ dist
 
 .vscode/
 
-*.js
+IotCoreChatBackend/**/*.js
 !jest.config.js
 *.d.ts
 node_modules
