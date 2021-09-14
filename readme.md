@@ -5,17 +5,13 @@ Chat app using IoT Core with custom authorizer
 1. Install node and cdk
 2. Input the password for auth to IoT Core in secrets.json
 3. In /IotCoreChatBackend
-´´´
-npm i
-npm run build
-cdk deploy
-´´´
+`npm i`
+`npm run build`
+`cdk deploy`
 4. Note the url output and input it in App.js
 5. In /IotCoreChatFrontend
-´´´
-npm i
-npm start
-´´´
+`npm i`
+`npm start`
 
 # Stack
 ## Backend
